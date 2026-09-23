@@ -1,0 +1,29 @@
+# Models (downloaded separately, hundreds of MB)
+models/
+*.gguf
+*.onnx
+
+# Runtime data
+data/
+*.faiss
+*.index
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.pytest-tmp/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.log
+
+# Scratch probe files
+data_listing*.txt
+data_rc_copy.txt
+tools/*_out*.txt
+tools/dl_*.txt
+tools/probe_*.txt
+tools/*.log
+tools/emoji_scan*.txt
