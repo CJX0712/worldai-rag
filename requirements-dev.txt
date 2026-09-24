@@ -1,4 +1,4 @@
 # Dev/test dependencies (pinned)
-pytest==8.4.2
+pytest==9.1.1
 pytest-asyncio==1.2.0
 httpx==0.28.1
