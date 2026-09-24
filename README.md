@@ -1,9 +1,9 @@
 # WorldAI
 
 <p align="center">
-  <a href="https://github.com/CJX0712/worldai-rag-m7x3/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/worldai-rag-m7x3/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
-  <a href="https://github.com/CJX0712/worldai-rag-m7x3/releases"><img src="https://img.shields.io/github/v/release/CJX0712/worldai-rag-m7x3?sort=semver" alt="release"></a>
-  <a href="https://github.com/CJX0712/worldai-rag-m7x3/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/worldai-rag-m7x3" alt="license"></a>
+  <a href="https://github.com/CJX0712/worldai-rag/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/worldai-rag/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/worldai-rag/releases"><img src="https://img.shields.io/github/v/release/CJX0712/worldai-rag?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/worldai-rag/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/worldai-rag" alt="license"></a>
   <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
 </p>
 
