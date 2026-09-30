@@ -3,6 +3,6 @@
 #
 # Linux/macOS: pip install -r requirements-llm.txt  (builds via cmake)
 # Windows: no official win_amd64 wheel — install a prebuilt one first, e.g.
-#   pip install llama-cpp-python==0.3.19 --extra-index-url \
+#   pip install llama-cpp-python==0.3.35 --extra-index-url \
 #       https://abetlen.github.io/llama-cpp-python/whl/cpu
-llama-cpp-python==0.3.19
+llama-cpp-python==0.3.35
